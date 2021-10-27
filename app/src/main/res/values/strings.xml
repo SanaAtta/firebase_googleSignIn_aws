@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aws_auth</string>
+    <string name="google_sign"> Google Sign In</string>
+
+</resources>
